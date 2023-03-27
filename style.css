@@ -1,0 +1,15 @@
+.bg-img1 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(https://images.pexels.com/photos/33109/fall-autumn-red-season.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+}
+.bg-img2 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(https://images.pexels.com/photos/459203/pexels-photo-459203.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+}
+.bg-img3 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(https://images.pexels.com/photos/45853/grey-crowned-crane-bird-crane-animal-45853.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+}
